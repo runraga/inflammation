@@ -7,3 +7,4 @@ Amit is a statistician
 
 We will probably need a programmer.
 This person will need to be competent in R or python, preferably both.
+We will anlso need someone to make tea
