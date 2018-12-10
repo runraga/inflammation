@@ -3,7 +3,7 @@ Project details.
 People:
 Jane is a data scientist
 Amit is a statistician
-Cheryl is a mathmatician
+Cheryl is a mathmatician and total babe
 
 
 We will probably need a programmer.
