@@ -1,2 +1,7 @@
 Project: name
 Project details.
+People:
+Jane is a data scientist
+Amit is a statistician
+
+
